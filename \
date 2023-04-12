@@ -22,7 +22,7 @@ const Splash: NextPage = () => {
     <h1 className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 transition-colors duration-1000 ease-out">
       APERTA
     </h1>
-    <div className="mt-6 text-2xl rounded-full backdrop-hue-rotate-20 saturate-150 backdrop-blur-3xl font-bold text-white p-3 transition ease-in-out delay-0 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500scale-125 duration-500 ">
+    <div className="mt-6 text-2xl rounded-full backdrop-hue-rotate-20 saturate-150 backdrop-blur-3xl font-bold text-white p-3 transition ease-in-out delay-0 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-500 ">
       <SignInButton/>
   </div>
   </div>
