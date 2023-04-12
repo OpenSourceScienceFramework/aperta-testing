@@ -1,7 +1,7 @@
 import { NextPage } from "next";
 import Head from "next/head";
 import Link from "next/link";
-import { SignIn, SignOut, useUser } from "@clerk/nextjs";
+import { SignIn, useUser } from "@clerk/nextjs";
 import { api } from "~/utils/api";
 import { useState } from "react";
 
