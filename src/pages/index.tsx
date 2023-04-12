@@ -17,12 +17,6 @@ const Home: NextPage = () => {
           <main className="flex min-h-screen flex-col items-center justify-center bg-black">
 
 
-<div className="flex h-screen items-center justify-center bg-black">
-  <div className="group relative">
-    <div className="absolute -inset-1 rounded-lg bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500 opacity-75 blur transition duration-500 group-hover:opacity-100"></div>
-    <button className="relative rounded-lg bg-black px-14 py-8 text-white font-bold text-5xl"  >Aperta</button>
-  </div>
-</div>
 
 
 </main>
